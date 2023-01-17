@@ -1,0 +1,15 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:/Usuarios/Datos_Otto_Ch/Documents/Unreal Projects/Arcanoidel/Intermediate/Build/Win64/UE4Editor/Inc/Arcanoid/Ball.gen.cpp
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid/Ball.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Ball.generated.h
+D:/Usuarios/Datos_Otto_Ch/Documents/Unreal Projects/Arcanoidel/Intermediate/Build/Win64/UE4Editor/Inc/Arcanoid/Brick.gen.cpp
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid/Brick.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Brick.generated.h
+D:/Usuarios/Datos_Otto_Ch/Documents/Unreal Projects/Arcanoidel/Intermediate/Build/Win64/UE4Editor/Inc/Arcanoid/PaddlePlayerController.gen.cpp
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid/PaddlePlayerController.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\PaddlePlayerController.generated.h
+D:/Usuarios/Datos_Otto_Ch/Documents/Unreal Projects/Arcanoidel/Intermediate/Build/Win64/UE4Editor/Inc/Arcanoid/Singleton_Main.gen.cpp
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid/Singleton_Main.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\Singleton_Main.generated.h

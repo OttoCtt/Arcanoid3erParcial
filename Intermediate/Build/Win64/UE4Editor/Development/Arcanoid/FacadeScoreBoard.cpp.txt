@@ -1,0 +1,9 @@
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\FacadeScoreBoard.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\ScoreCrewMember.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\ScoreCrewMember.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\FacadeScoreBoard.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\ScoreBricks.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\ScoreBricks.generated.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Source\Arcanoid\ScoreEnergy.h
+D:\Usuarios\Datos_Otto_Ch\Documents\Unreal Projects\Arcanoidel\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\ScoreEnergy.generated.h
